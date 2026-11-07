@@ -1,1 +1,6 @@
+# Domain Adaptation
+
+python main.py --in_channels 512 --dataset_dir [path_to_datafolder]
+
+DEAP: DEAP
 
